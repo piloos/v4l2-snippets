@@ -1,0 +1,4 @@
+
+This repo contains some code to query a v4l2 device to see its capabilities
+
+Build locally using the buildcommand.txt info
